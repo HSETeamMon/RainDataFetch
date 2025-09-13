@@ -1,0 +1,12 @@
+{
+  "name": "forecast-table-exporter",
+  "version": "1.0.0",
+  "author": "FEPL HSE",
+  "description": "A minimal Windy plugin to confirm loading works",
+  "displayName": "Forecast Table Exporter",
+  "hook": "menu",
+  "files": {
+    "html": "plugin.html",
+    "js": "plugin.js"
+  }
+}
